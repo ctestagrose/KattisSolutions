@@ -3,7 +3,7 @@ import java.util.*;
  * This program was submitted to Kattis and will calculate the absolute value between two numbers
  * 
  * 
- * @author Conrad Testagrose
+ * @author cTestagrose
  *
  */
 
