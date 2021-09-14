@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\QualityofLifeYear.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\QualityofLifeYear.dir/objects.a @CMakeFiles\QualityofLifeYear.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\QualityofLifeYear.dir/objects.a -Wl,--no-whole-archive -o QualityofLifeYear.exe -Wl,--out-implib,libQualityofLifeYear.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QualityofLifeYear.dir\linklibs.rsp
